@@ -1,7 +1,6 @@
 {
-    "name": "chrome-extension-template",
-    "version": "0.0.1",
-    "description": "Extension to alert when visiting blocked social networks",
+    "name": "social-network-alert",
+    "version": "1.0.0",
     "main": "src/index.js",
     "repository": "git@github.com:edrpls/social-network-alert.git",
     "license": "MIT",
