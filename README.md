@@ -2,6 +2,8 @@
 
 This is a demo extension built with [chrome-extension-template](https://github.com/edrpls/chrome-extension-template).
 
+This extension blocks Twitter and Facebook when enabled.
+
 ## Installation
 
 Clone the repo:
