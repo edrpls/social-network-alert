@@ -1,9 +1,9 @@
 {
     "name": "chrome-extension-template",
-    "version": "0.0.4",
-    "description": "Chrome extension boilerplate, replace all values!",
+    "version": "0.0.1",
+    "description": "Extension to alert when visiting blocked social networks",
     "main": "src/index.js",
-    "repository": "git@bitbucket.org:gumgum/gg-screenshots.git",
+    "repository": "git@github.com:edrpls/social-network-alert.git",
     "license": "MIT",
     "devDependencies": {
         "babel-cli": "^6.26.0",
@@ -25,10 +25,7 @@
         "build": "webpack"
     },
     "nodemonConfig": {
-        "ignore": [
-            "dist/",
-            "node_modules"
-        ],
+        "ignore": ["dist/", "node_modules"],
         "execMap": {
             "js": "node"
         },
