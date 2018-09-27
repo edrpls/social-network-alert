@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "social-network-alert",
-    "version": "0.0.1",
+    "version": "1.0.2",
     "description": "Extension to alert when visiting blocked social networks",
     "icons": {
         "16": "16x16.png",
