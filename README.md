@@ -7,7 +7,7 @@ This is a demo extension built with [chrome-extension-template](https://github.c
 Clone the repo:
 
 ```
-git clone git@github.com:edrpls/chrome-extension-template.git name-of-your-project
+git clone git@github.com:edrpls/social-network-alert.git
 ```
 
 Install dependencies:
